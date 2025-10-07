@@ -27,15 +27,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 ### Detailed Steps
 
-#### 1. Starting from Windows Desktop
-1. **Open Windows Explorer**
-   - Navigate to the folder containing your data files
-   - Locate the `budget_analysis.csv` file
-     
-   ![Onelake Explorer](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Onelake%20Explorer.png)
-
-
-#### 2. Connection via OneLake Explorer
+#### 1. Connection via OneLake Explorer
 1. **Launch OneLake Explorer**
    - Right-click on the OneLake icon in the taskbar
    - Select "Open OneLake Explorer"
@@ -43,6 +35,14 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 2. **Authentication**
    - Sign in with your Microsoft 365 credentials
    - Select the appropriate Fabric workspace
+
+#### 2. Starting from Windows Desktop
+1. **Open Windows Explorer**
+   - Navigate to the folder containing your data files
+   - Locate the `budget_analysis.csv` file
+     
+   ![Onelake Explorer](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Onelake%20Explorer.png)
+
 
 #### 3. Data Loading
 1. **Drag and Drop the File**
@@ -252,6 +252,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
