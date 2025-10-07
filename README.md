@@ -64,6 +64,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    - Locate the newly created `budget_analysis` table
    - Click the **"Add Data Agent"** button
    - Configure the Data Agent name: "Budget Assistant"
+   - Just talk to your data
 
 #### 5. First Conversational Test
 **Questions to ask the Data Agent:**
@@ -247,6 +248,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
