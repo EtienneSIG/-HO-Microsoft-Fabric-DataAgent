@@ -13,7 +13,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 ## 📋 Prerequisites
 
 - Access to Microsoft Fabric with enabled capacity
-- OneLake Explorer installed on Windows Desktop. Download Onelae Explorer ([Here](https://www.microsoft.com/en-us/download/details.aspx?id=105222))
+- OneLake Explorer installed on Windows Desktop. Download Onelake Explorer ([here](https://www.microsoft.com/en-us/download/details.aspx?id=105222)).
 - Admin rights on Fabric workspace
 - Provided `budget_analysis.csv` file (see Datasets section)
 
@@ -241,4 +241,5 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
