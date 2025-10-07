@@ -106,8 +106,13 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 1. **Create New Semantic Model**
    - In Fabric, select "New" > "Semantic Model"
    - Name: "Corporate Budget Model"
+   - Click on "Editing" on right top
+
+   ![EditingSemanticModel](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/EditingSemanticModel.png)
 
 2. **Define DAX Measures**
+
+   Click on ![NewMeasure](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/NewMeasure.png) for each measure to create
    ```dax
    Total Budget = SUM('budget_analysis'[Budget_Amount])
    Total Actual = SUM('budget_analysis'[Actual_Amount])
@@ -115,7 +120,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    Budget Variance % = DIVIDE([Budget Variance], [Total Budget], 0)
    ```
 
-3. **Configure Hierarchies**
+4. **Configure Hierarchies**
    - Create temporal hierarchy: Year > Quarter > Month
    - Create organizational hierarchy: Division > Department > Team
 
@@ -233,6 +238,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
