@@ -37,6 +37,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 #### 2. Starting from Windows Desktop
 1. **Open Windows Explorer**
+   - Downlaod the 'budget_analysis.csv' file [here](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/data/budget_analysis.csv)
    - Navigate to the folder containing your data files
    - Locate the `budget_analysis.csv` file
      
@@ -243,6 +244,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
