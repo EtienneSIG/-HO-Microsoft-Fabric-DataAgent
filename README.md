@@ -129,8 +129,8 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 2. **Define DAX Measures**
    ```dax
-   Total Budget = SUM('Budget'[Budget_Amount])
-   Total Actual = SUM('Budget'[Actual_Amount])
+   Total Budget = SUM('udget_analysis'[Budget_Amount])
+   Total Actual = SUM('udget_analysis'[Actual_Amount])
    Budget Variance = [Total Actual] - [Total Budget]
    Budget Variance % = DIVIDE([Budget Variance], [Total Budget], 0)
    ```
@@ -253,6 +253,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
