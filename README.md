@@ -68,9 +68,12 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 #### 5. First Conversational Test
 **Questions to ask the Data Agent:**
+- "Can you describe the data ?"
 - "What is our biggest expense category?"
 - "Show me budget evolution by quarter"
 - "Which departments exceeded their budget?"
+
+   ![Talk to your data](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Talk%20to%20your%20data.png)
 
 ### 💡 Key Points for Executives
 - **Simplicity**: From your desktop to AI in 5 clicks
@@ -248,6 +251,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
