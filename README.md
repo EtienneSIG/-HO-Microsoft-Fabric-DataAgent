@@ -1,4 +1,4 @@
-# Hands-On: Microsoft Fabric Data Agents for Executives
+# Hands-On: Microsoft Fabric Data Agents - Budget Analysis
 
 ## 🎯 Hands-On Objectives
 
@@ -244,6 +244,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
