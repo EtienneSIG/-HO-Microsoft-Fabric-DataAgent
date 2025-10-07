@@ -125,7 +125,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    - Create organizational hierarchy: Division > Department > Team
    
    For this, in Data > Tables section (on the right), clik right on the field who will be the high level the hierchy.
-   [CreateHierarchy](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/CreateHierarchy.png)
+   ![CreateHierarchy](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/CreateHierarchy.png)
 
    And drag and drop the other field you would like to add to your hierarchy
 
@@ -244,6 +244,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
