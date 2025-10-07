@@ -56,7 +56,9 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 1. **Access Fabric Online**
    - Click right on the file "View item online" from OneLake Explorer
    - Navigate to the "Files" section to see your csv file
-   - Click right on csv file and ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Load%20csv%20into%20table.png)
+   - Click right on csv file and load to table
+   
+   ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Load%20csv%20into%20table.png)
    
 2. **Create the Data Agent**
    - Locate the newly created `budget_analysis` table
@@ -245,6 +247,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
