@@ -100,16 +100,16 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 ### Construction Steps
 
-#### 1. Fabric Workspace Preparation
+#### 1. Fabric Workspace Preparation (optional if Done in scenario 1)
 1. **Access Fabric Portal**
    - Sign in to `app.fabric.microsoft.com`
    - Create a new workspace: "Executive Analytics"
 
-2. **Capacity Configuration**
+2. **Capacity Configuration** (optional if Done in scenario 1)
    - Verify Premium capacity allocation
    - Enable Data Agent features
 
-#### 2. Data Import and Preparation
+#### 2. Data Import and Preparation (optional if Done in scenario 1)
 1. **Load Main Dataset**
    - Go to "Get Data" > "Upload files"
    - Select `budget_analysis.csv`
@@ -251,6 +251,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
