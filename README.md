@@ -121,12 +121,18 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    ```
 
 4. **Configure Hierarchies**
-   - Create temporal hierarchy: Year > Quarter > Month
+   - Create temporal hierarchy: Quarter > Date
    - Create organizational hierarchy: Division > Department > Team
+   
+   For this, in Data > Tables section (on the right), clik right on the field who will be the high level the hierchy.
+   [CreateHierarchy](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/CreateHierarchy.png)
+
+   And drag and drop the other field you would like to add to your hierarchy
+
 
 #### 2. Advanced Data Agent Creation
 1. **Access Data Agents**
-   - In the Fabric ribbon, click "Data Agents"
+   - Come back to workspace level, click "New Items" and search for "Data Agents"
    - Select "Create Data Agent"
 
 2. **Data Agent Configuration**
@@ -238,6 +244,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
