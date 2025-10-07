@@ -102,27 +102,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 ### Construction Steps
 
-#### 1. Fabric Workspace Preparation (optional if Done in scenario 1)
-1. **Access Fabric Portal**
-   - Sign in to `app.fabric.microsoft.com`
-   - Create a new workspace: "Executive Analytics"
-
-2. **Capacity Configuration** (optional if Done in scenario 1)
-   - Verify Premium capacity allocation
-   - Enable Data Agent features
-
-#### 2. Data Import and Preparation (optional if Done in scenario 1)
-1. **Load Main Dataset**
-   - Go to "Get Data" > "Upload files"
-   - Select `budget_analysis.csv`
-   - Preview and validate data types
-
-2. **Data Transformation (if needed)**
-   - Use Power Query to clean data
-   - Create calculated columns (e.g., budget vs actual variance)
-   - Define relationships between tables (if multiple sources)
-
-#### 3. Semantic Model Construction
+#### 1. Semantic Model Construction
 1. **Create New Semantic Model**
    - In Fabric, select "New" > "Semantic Model"
    - Name: "Corporate Budget Model"
@@ -139,7 +119,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    - Create temporal hierarchy: Year > Quarter > Month
    - Create organizational hierarchy: Division > Department > Team
 
-#### 4. Advanced Data Agent Creation
+#### 2. Advanced Data Agent Creation
 1. **Access Data Agents**
    - In the Fabric ribbon, click "Data Agents"
    - Select "Create Data Agent"
@@ -154,7 +134,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    - Configure standard responses for frequent questions
    - Enable automatic visualizations
 
-#### 5. Testing and Optimization
+#### 3. Testing and Optimization
 **Sophisticated test scenarios:**
 
 1. **Performance Analysis**
@@ -253,6 +233,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
