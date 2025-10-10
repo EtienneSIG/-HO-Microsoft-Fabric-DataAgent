@@ -160,6 +160,52 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    - "Compare Q3 vs Q2 performance by division"
    - "Show me the most significant variances"
 
+#### 4. Power BI Copilot Integration
+
+Building on the semantic model created above, you can now leverage **Copilot for Power BI** to create sophisticated visualizations and dashboards through natural language.
+
+1. **Create Power BI Report**
+   - In your Fabric workspace, select "New" > "Power BI Report"
+   - Connect to your "Corporate Budget Model" semantic model
+   - The report canvas opens with access to your data and DAX measures
+
+2. **Activate Copilot for Power BI**
+   - Look for the **Copilot** button in the Power BI ribbon
+   - Ensure Copilot is enabled in your tenant settings
+   - Click on the Copilot pane to open the conversational interface
+
+3. **Natural Language Report Creation**
+   **Example prompts to try:**
+   - "Create a chart showing budget variance by division"
+   - "Show me a trending line of actual vs budget amounts over quarters"
+   - "Build a table with the top 5 departments with highest budget overruns"
+   - "Generate a waterfall chart showing budget variance breakdown"
+
+4. **Advanced Copilot Features**
+   - **Narrative Insights**: Ask Copilot to "Explain the budget performance trends"
+   - **Smart Recommendations**: Copilot suggests relevant visualizations based on your data
+   - **Auto-formatting**: Automatically applies best practices for chart formatting
+   - **Data Storytelling**: Generate executive summaries with key insights
+
+5. **Executive Dashboard Creation**
+   - Use Copilot to create a comprehensive executive dashboard
+   - Example: "Create an executive summary page with KPI cards for total budget, actual spend, and variance percentage"
+   - Add slicers for interactive filtering by division, quarter, and department
+   - Configure drill-through capabilities for detailed analysis
+
+6. **Collaborative Features**
+   - **Q&A Visual**: Add a Q&A visual that allows users to ask questions in natural language
+   - **Comments and Annotations**: Use Copilot to generate insights comments on visuals
+   - **Report Narration**: Generate automated narrative explanations of trends and anomalies
+
+### 💡 Power BI Copilot Benefits for Executives
+- **Speed**: Create complex reports in minutes instead of hours
+- **Accessibility**: No need to learn Power BI interface complexities
+- **Intelligence**: AI suggests the most appropriate visualizations for your data
+- **Consistency**: Maintains corporate branding and best practices automatically
+
+
+
 ### 🚀 Advanced Features to Demonstrate
 
 #### Contextual Intelligence
@@ -244,6 +290,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
