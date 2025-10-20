@@ -165,8 +165,9 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 Building on the semantic model created above, you can now leverage **Copilot for Power BI** to create sophisticated visualizations and dashboards through natural language.
 
 1. **Create Power BI Report**
-   - In your Fabric workspace, select "New" > "Power BI Report"
+   - In your Fabric workspace, select "New" > "Power BI Report" and click on ![ConnectSM](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/PickSemanticModel.png)
    - Connect to your "Corporate Budget Model" semantic model
+   ![ConnectSM](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/SelectSemanticModel.png)
    - The report canvas opens with access to your data and DAX measures
    - Save the report as "Corporate Budget Report"
 
@@ -291,6 +292,7 @@ Building on the semantic model created above, you can now leverage **Copilot for
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
