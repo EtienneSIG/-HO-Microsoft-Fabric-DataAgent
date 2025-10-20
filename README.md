@@ -122,7 +122,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 4. **Configure Hierarchies**
    - Create temporal hierarchy: Quarter > Date
-   - Create organizational hierarchy: Division > Department > Team
+   - Create organizational hierarchy: Division > Department > Responsable_Manager
    
    For this, in Data > Tables section (on the right), clik right on the field who will be the high level the hierchy.
    ![CreateHierarchy](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/CreateHierarchy.png)
@@ -290,6 +290,7 @@ Building on the semantic model created above, you can now leverage **Copilot for
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
