@@ -168,6 +168,7 @@ Building on the semantic model created above, you can now leverage **Copilot for
    - In your Fabric workspace, select "New" > "Power BI Report"
    - Connect to your "Corporate Budget Model" semantic model
    - The report canvas opens with access to your data and DAX measures
+   - Save the report as "Corporate Budget Report"
 
 2. **Activate Copilot for Power BI**
    - Look for the **Copilot** button in the Power BI ribbon
@@ -290,6 +291,7 @@ Building on the semantic model created above, you can now leverage **Copilot for
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
