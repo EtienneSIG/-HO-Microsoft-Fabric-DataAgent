@@ -160,7 +160,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    - "Compare Q3 vs Q2 performance by division"
    - "Show me the most significant variances"
 
-#### 4. Power BI Copilot Integration
+#### 4. Power BI Copilot Integration (Advanced - Optional)
 
 Building on the semantic model created above, you can now leverage **Copilot for Power BI** to create sophisticated visualizations and dashboards through natural language.
 
@@ -291,6 +291,7 @@ Building on the semantic model created above, you can now leverage **Copilot for
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
